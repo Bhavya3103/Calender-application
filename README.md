@@ -12,5 +12,5 @@ Dynamic Linked List Implementation – Efficiently manages dates and events.
 How It Works:
 Input a year → The program generates the calendar month by month.
 Menu options allow you to:
-Add an event, Update an event, View all events, Delete an event, Exit the program
+Add an event, Update an event, View all events, Delete an event and  Exit the program.
 Uses Zeller's Congruence to determine the day of the week for each date.
